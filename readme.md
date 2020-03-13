@@ -1,7 +1,5 @@
 //////////////////////////////
-//////////TIME TAKEN//////////
-///////4 hrs and 40 min///////
-///excluding making this doc//
+TIME TAKEN - 4 hrs and 40 min - excluding making this doc
 //////////////////////////////
 
 Implementation choices
@@ -16,7 +14,7 @@ Implemented:
 * Used a non-in memory database MySQL to persist data
 * Used Docker to run the (local) MySql Database
 * Used Http Basic Auth for basic authentication on the API (I've used Oauth aswell (and also Ldap in combination with SSO applications))
-* Tried to "conform" to the restfull guilelines as much as possible 
+* Tried to "conform" to the restfull guidelines as much as possible 
 
 
 
